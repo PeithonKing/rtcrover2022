@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Aritra Mukhopadhyay",
+		"photo": "team/aritra.jpg",
+		"show": true
+	},
+	{
+		"name": "Pritipriya Dasbehera",
+		"photo": "team/pritipriya.jpg",
+		"show": true
+	},
+	{
+		"name": "Soumya Prakash Jena",
+		"photo": "team/soumya.jpg",
+		"show": false
+	}
+]

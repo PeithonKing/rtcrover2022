@@ -1,0 +1,16 @@
+[
+  {
+    "date": "Previous Work",
+    "heading": "No Proper Documentation for Previous Work",
+    "show": true,
+    "content": "We didn't have any propper documentation before this point, so writing down everything which already have been done. The idea was clear. We wanted to build a 6-wheel rover, which would be equipped with various sensors and would be able to find the shortest route given a destination. We had the model ready, (shown in the attached image). Now we divided into two groups: One group will build the rover and the other will train it on simulation.",
+    "image": "updates/prev_work.jpg"
+  },
+  {
+    "date": "22nd January, 2023",
+    "heading": "Cutting Rods and Starting to Build the Structure",
+    "show": false,
+    "content": "Lorem ",
+    "image": "https://picsum.photos/300/500"
+  }
+]
