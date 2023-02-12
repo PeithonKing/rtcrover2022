@@ -9,8 +9,15 @@
   {
     "date": "22nd January, 2023",
     "heading": "Cutting Rods and Starting to Build the Structure",
-    "show": false,
-    "content": "Lorem ",
-    "image": "https://picsum.photos/300/500"
+    "show": true,
+    "content": "Given the 3-D structure of rover, we started taking measurements of the aluminuim rods we have and calculating the appropriate sizes for least wastage. After marking the rods we took out the metal cutter and cut the rods. The new club members were taught how to use the metal cutter. All safety precautions were followed including safety googles and gloves.",
+    "image": ""
+  },
+  {
+    "date": "29th January, 2023",
+    "heading": "Joining the Rods to Build the Structure",
+    "show": true,
+    "content": "A discussion on how to join the metals tok place. Due to unavailability of any kind of welding equipment we had to use nuts and bolts, compromising the strength of the structure. The bolts we planed to use won't be enough so we put a request for purchase. Goal for next session - complete the basic structure of the rover.",
+    "image": ""
   }
 ]
