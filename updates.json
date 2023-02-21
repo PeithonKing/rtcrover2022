@@ -1,0 +1,23 @@
+[
+  {
+    "date": "Previous Work",
+    "heading": "No Proper Documentation for Previous Work",
+    "show": true,
+    "content": "We didn't have any proper documentation before this point, so writing down everything which already has been done. The idea was clear. We wanted to build a 6-wheel rover, which would be equipped with various sensors and would be able to find the shortest route given a destination. We had the model ready, (shown in the attached image). Now we are divided into two groups: One group will build the rover and the other will train it on simulation.",
+    "image": "updates/prev_work.jpg"
+  },
+  {
+    "date": "22nd January, 2023",
+    "heading": "Cutting Rods and Starting to Build the Structure",
+    "show": true,
+    "content": "Given the 3-D structure of the rover, we started taking measurements of the aluminium rods we have and calculating the appropriate sizes for the least wastage. After marking the rods we took out the metal cutter and cut the rods. The new club members were taught how to use the metal cutter. All safety precautions were followed including safety goggles and gloves.",
+    "image": ""
+  },
+  {
+    "date": "29th January, 2023",
+    "heading": "Joining the Rods to Build the Structure",
+    "show": true,
+    "content": "A discussion on how to join the metals took place. Due to the unavailability of any kind of welding equipment we had to use nuts and bolts, compromising the strength of the structure. The bolts we planned to use won't be enough so we put in a purchase request. The goal for the next session - complete the basic structure of the rover.",
+    "image": ""
+  }
+]
